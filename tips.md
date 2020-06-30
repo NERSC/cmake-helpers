@@ -2,7 +2,7 @@
 
 Tips courtesy of [@jrmadsen,](https://github.com/jrmadsen) sorted and annotated by [@sleak-lbl](https://github.com/sleak-lbl)
 
-I (@sleak-lbl) also used <https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/> and <https://cliutils.gitlab.io/modern-cmake/chapters/intro/dodonot.html> to get a better picture of cmake into my head, while sorting these.
+I (@sleak-lbl) also used <https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/> and <https://cliutils.gitlab.io/modern-cmake/chapters/intro/dodonot.html> to improve my understanding of cmake, while sorting these.
 
 ## Think in terms of targets, not variables or directories 
 
