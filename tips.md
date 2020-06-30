@@ -1,4 +1,4 @@
-# cmake tips from Jonathan
+# cmake tips 
 
 Tips courtesy of [@jrmadsen,](https://github.com/jrmadsen) sorted and annotated by [@sleak-lbl](https://github.com/sleak-lbl)
 
